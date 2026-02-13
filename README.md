@@ -1,2 +1,2 @@
 # nxtwave
-this is demo projects from nxtwave
+this is demo projects from nxtwave.
